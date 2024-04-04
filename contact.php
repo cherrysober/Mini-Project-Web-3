@@ -182,13 +182,13 @@
 			</div>
 		</section>
 
-    <footer class="ftco-footer">
+		<footer class="ftco-footer">
       <div class="container">
         <div class="row mb-5">
           <div class="col-sm-12 col-md">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2 logo"><a href="#">Liquor <span>Store</span></a></h2>
-              <p>Far far away, behind the word mountains, far from the countries.</p>
+              <h2 class="ftco-heading-2 logo"><a href="#">Candle <span>Store</span></a></h2>
+              <p>In a world where chaos reigns, find solace in the gentle flicker and comforting scents of Candle Store candles.</p>
               <ul class="ftco-footer-social list-unstyled mt-2">
                 <li class="ftco-animate"><a href="#"><span class="fa fa-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="fa fa-facebook"></span></a></li>
@@ -203,7 +203,7 @@
                 <li><a href="account.php"><span class="fa fa-chevron-right mr-2"></span>My Account</a></li>
                 <li><a href="register.php"><span class="fa fa-chevron-right mr-2"></span>Register</a></li>
                 <li><a href="login.php"><span class="fa fa-chevron-right mr-2"></span>Log In</a></li>
-                <li><a href="cart.php"><span class="fa fa-chevron-right mr-2"></span>My Order</a></li>
+                <li><a href="cart.php"><span class="fa fa-chevron-right mr-2"></span>My Cart</a></li>
               </ul>
             </div>
           </div>
@@ -211,10 +211,9 @@
             <div class="ftco-footer-widget mb-4 ml-md-4">
               <h2 class="ftco-heading-2">Information</h2>
               <ul class="list-unstyled">
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>About us</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Catalog</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Contact us</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Term &amp; Conditions</a></li>
+                <li><a href="about.php"><span class="fa fa-chevron-right mr-2"></span>About us</a></li>
+                <li><a href="product.php"><span class="fa fa-chevron-right mr-2"></span>Catalog</a></li>
+                <li><a href="contact.php"><span class="fa fa-chevron-right mr-2"></span>Contact us</a></li>
               </ul>
             </div>
           </div>
@@ -224,8 +223,8 @@
             	<div class="block-23 mb-3">
 	              <ul>
 	                <li><span class="icon fa fa-map marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-	                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-	                <li><a href="#"><span class="icon fa fa-paper-plane pr-4"></span><span class="text">info@yourdomain.com</span></a></li>
+	                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">0812345618</span></a></li>
+	                <li><a href="#"><span class="icon fa fa-paper-plane pr-4"></span><span class="text">candlestore@gmail.com</span></a></li>
 	              </ul>
 	            </div>
             </div>
